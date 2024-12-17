@@ -7,3 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellaamanu&layout=compact&hide_border=true&title_color=d7bde2&text_color=fef5e7&bg_color=0d1117" />
 </div>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e052af99-9af9-4dc1-9b35-a5e14b028fad.gif" alt="download" width="250px" />
+</p>
