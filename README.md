@@ -8,5 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e052af99-9af9-4dc1-9b35-a5e14b028fad.gif" alt="download" width="250px" />
+  <img src="https://github.com/user-attachments/assets/e052af99-9af9-4dc1-9b35-a5e14b028fad" alt="download" width="550px" />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d7bde2&height=120&section=footer"/>
